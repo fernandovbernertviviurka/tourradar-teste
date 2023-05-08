@@ -1,0 +1,6 @@
+ID,Email,Banned_at
+8;trantow.brook@example.com;1999-04-14 08:13:00
+16;mclaughlin.virgie@example.net;1993-12-28 23:39:14
+49;major67@example.org;2016-04-22 00:54:20
+98;egleason@example.com;2006-02-26 21:25:16
+116;lowe.leonora@example.org;1971-03-27 00:51:43
